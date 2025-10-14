@@ -22,6 +22,8 @@ const texts = [
   "18.10.2025", //Day of birth
   "HAPPY BIRTHDAY",
   "Võ Thị Ngọc Duyên", //Your Name
+  "Chúc em tuổi mới vui vẻ",
+  "Hạnh phúc em nhé!",
 ];
 
 const BASE_DISPLAY_TIME = 3000;
